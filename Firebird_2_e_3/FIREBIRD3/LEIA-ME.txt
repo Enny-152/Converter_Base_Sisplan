@@ -1,0 +1,7 @@
+﻿Existem 2 arquivos .bat na pasta
+
+Install_64Bits ou Install_32Bits. Instalar de acordo com o tipo de arquitetura do seu sistema operacional.
+Quando for detectado que já existe uma instalação do firebird irá fazer uma pergunta se deseja cancelar a instalação. Clicar em não.
+Quando for detectado que já existe uma instalação do firebird irá usar a porta 3051 e quando não existe uma instalação irá usar a porta 3050.
+
+Sempre executar o .bat como administrador
